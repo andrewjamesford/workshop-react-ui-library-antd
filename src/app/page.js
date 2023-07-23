@@ -11,13 +11,13 @@ const HomePage = () => (
     <div className="App">
       <Layout>
         <Header>
-          Header
+          My Apps name
         </Header>
         <Content>
-          Content
+          
         </Content>
         <Footer>
-          Footer
+          &copy; Copyright 2023
         </Footer>        
       </Layout>
     </div>
